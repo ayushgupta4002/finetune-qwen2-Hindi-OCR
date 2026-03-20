@@ -1,0 +1,1 @@
+# finetune-qwen2-Hindi-OCR
